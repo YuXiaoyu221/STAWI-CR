@@ -1,2 +1,2 @@
 # STAWI-CR
-Thick Cloud Removal in Multi-Temporal Images via Spatio-Temporally Adaptive Weighted Isophote and Cross-Scale Fidelity Constraints
+Multi-Temporal Thick Cloud Removal via Spatio-Temporally Adaptive Isophote Guidance and Cross-Scale Radiometric Regularization
