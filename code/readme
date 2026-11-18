@@ -1,1 +1,6 @@
 
+# The code of the manuscript: Multi-Temporal Thick Cloud Removal via Spatio-Temporally Adaptive Isophote Guidance and Cross-Scale Radiometric Regularization
+
+matlab vision
+
+run the "main.m", you can change the path to your data
